@@ -1,0 +1,12 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.bg-img{
+    background-image: url(./2c4df852-029c-4b66-a418-3fcfeaae5af4.jpg);
+}
