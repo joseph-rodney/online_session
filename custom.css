@@ -12,9 +12,8 @@ body{
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 20em;
-
-
+    padding: 9em;
+    width: 100%;
 }
 .pilot-btn{
     align-items: center;
@@ -27,4 +26,11 @@ body{
 }
 .pilot-nav{
     text-align: center;
+}
+.pilot-section{
+    border-radius: 30px;
+}
+
+.container-fluid{
+    max-width: 100% !important;
 }
