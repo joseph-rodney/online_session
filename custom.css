@@ -37,3 +37,7 @@ body{
 .blog-container{
     margin-top: 100px;
 }
+.login-container{
+    margin-top: 100px !important;
+    
+}
