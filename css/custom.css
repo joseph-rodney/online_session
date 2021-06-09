@@ -41,3 +41,11 @@ body{
     margin-top: 100px !important;
     
 }
+.login-img{
+    max-width: 400px;
+
+}
+.register-img{
+    max-width: 500px;
+    max-width: 300px;
+}
