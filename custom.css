@@ -34,3 +34,6 @@ body{
 .container-fluid{
     max-width: 100% !important;
 }
+.blog-container{
+    margin-top: 100px;
+}
