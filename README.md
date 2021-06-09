@@ -20,7 +20,7 @@
 <h4>Hounarable Mentions</h4>
 <ol>
     <li><a href="https://github.com/brooke-stanley-agina">Brooke Stanely</a></li>
-    <li><a href="https://github.com/kaybrian">Brooke Stanely</a></li>
+    <li><a href="https://github.com/kaybrian">Brain</a></li>
 </ol>
 </section>
 </html>
